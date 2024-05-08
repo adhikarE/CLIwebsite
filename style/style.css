@@ -1,0 +1,52 @@
+body{
+
+    background-color: black;
+
+}
+
+.output_text{
+
+    color: darkgreen;
+    
+}
+
+#line{
+
+    border: 0;
+
+}
+
+#command_line{
+
+    display: flex;
+    gap: 10px;
+
+}
+
+#user{
+
+    color: green;
+
+}
+
+#line{
+
+    padding-left: 5px;
+    resize: none;
+    border: none;
+    outline: none;
+
+    height: fit-content;
+    width: 100%;
+
+    margin-top: 12px;
+    font-size: 18px;
+
+
+    background-color: black;
+
+    color: green;
+
+    caret-shape: block;
+
+}
