@@ -19,7 +19,7 @@ function compile() {
                 output += "- <b>clear</b>:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Clears the terminal.";
                 break;
             case "whoami":
-                output += "Namaste!<br>I am a Network/Security enthusiast & a student who currently completing my B. Tech in Computer Science and Engineering in with a specialization in Cyber Security.<br>I'm currently continuing my studies at NMIMS, Mumbai.<br>For more details/updates please check my socials!";
+                output += "Namaste!<br>I am a Network/Security enthusiast & a student who is currently completing my B.Tech in Computer Science and Engineering with a specialization in Cyber Security.<br>I'm currently continuing my studies at NMIMS, Mumbai.<br>For more details/updates please check my socials!";
                 break;
             case "exp":
                 output += "<b>Sapio Analytics Mumbai</b>: &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>Data Privacy Auditor</i><br><br>"
