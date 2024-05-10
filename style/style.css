@@ -7,11 +7,11 @@ body{
 
 @media screen and (max-width: 768px) {
     body {
-        font-size: 12px; 
+        font-size: 14px; 
     }
 
-    .terminal {
-        font-size: 0.7em;
+    #line {
+        margin-top: 14px;
     }
 }
 
