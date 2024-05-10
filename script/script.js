@@ -26,10 +26,11 @@ function compile() {
                 output += "<b>IT-11 Computer Education Center</b>: &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>Programming Instructor</i>."
                 break;
             case "socials":
-                output += "<a target=\"_blank\" href=\"https://linkedin.com/in/8rupees\" style=\"color: darkgreen;\" >LinkedIn</a><br>";
-                output += "<a target=\"_blank\" href=\"https://twitter.com/8rupees\" style=\"color: darkgreen;\" >Twitter / X</a><br>";
-                output += "<a target=\"_blank\" href=\"https://github.com/8rupees\" style=\"color: darkgreen;\" >Github</a><br>";
-                output += "<a target=\"_blank\" href=\"https://www.reddit.com/user/8rupees/\" style=\"color: darkgreen;\" >Reddit</a><br>";
+                output += "Here are a few social media sites that I am active on :-<br>"
+                output += "- <a target=\"_blank\" href=\"https://linkedin.com/in/8rupees\" style=\"color: darkgreen;\" >LinkedIn</a><br>";
+                output += "- <a target=\"_blank\" href=\"https://twitter.com/8rupees\" style=\"color: darkgreen;\" >Twitter / X</a><br>";
+                output += "- <a target=\"_blank\" href=\"https://github.com/8rupees\" style=\"color: darkgreen;\" >Github</a><br>";
+                output += "- <a target=\"_blank\" href=\"https://www.reddit.com/user/8rupees/\" style=\"color: darkgreen;\">Reddit</a><br>";
                 break;
             case "clear":
                 outputText.innerHTML = "";
@@ -37,11 +38,11 @@ function compile() {
             case "ls":
                 output += "README.txt";
                 break;
-            case "cat readme.txt":
+            case "cat README.txt":
                 output += "Fuzzing around i see... You might aswell expect \"cat etc/passwd\" to work. IT'S NOT A REAL TERMINAL!";
                 break;
             case "cat etc/passwd":
-                window.location = "https://youtu.be/dQw4w9WgXcQ?si=1WLt2cSa__GScU-O";
+                window.location = "https://youtu.be/j5a0jTc9S10";
                 output += "SEE YA!";
                 break;
             default:
