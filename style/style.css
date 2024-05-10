@@ -8,7 +8,7 @@ body{
 
     color: darkgreen;
     font-family: monospace;
-    font-size: 18px;
+    font-size: 160%;
     
 }
 
@@ -29,7 +29,7 @@ body{
 
     color: green;
     font-family: monospace;
-    font-size: 18px;
+    font-size: 160%;
     white-space: nowrap;
 
 }
@@ -44,10 +44,10 @@ body{
     height: fit-content;
     width: 100%;
 
-    margin-top: 15px;
+    margin-top: 18px;
 
     font-family: monospace;
-    font-size: 18px;
+    font-size: 160%;
 
 
     background-color: black;
