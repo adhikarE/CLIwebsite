@@ -5,6 +5,16 @@ body{
 
 }
 
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px; 
+    }
+
+    .terminal {
+        font-size: 0.9em;
+    }
+}
+
 .output_text{
 
     color: darkgreen;
