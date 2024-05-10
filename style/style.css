@@ -10,10 +10,9 @@ body{
         font-size: 14px; 
     }
     #user{
-        font-size: 18px;
-    }
-    #line{
-        font-size: 18px;
+
+        margin-top: 1.2em;
+
     }
 }
 
