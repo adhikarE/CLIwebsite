@@ -9,6 +9,12 @@ body{
     body {
         font-size: 14px; 
     }
+    #user{
+        font-size: 18px;
+    }
+    #line{
+        font-size: 18px;
+    }
 }
 
 .output_text{
@@ -17,12 +23,6 @@ body{
     font-family: monospace;
     font-size: 1em;
     
-}
-
-#line{
-
-    border: 0;
-
 }
 
 #command_line{
@@ -48,6 +48,7 @@ body{
     border: none;
     outline: none;
 
+    border: 0;
     height: fit-content;
     width: 100%;
 
