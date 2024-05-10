@@ -9,7 +9,7 @@ function compile() {
 
     if (input === "") {} else{
     
-        switch (input.toLowerCase()) {
+        switch (input) {
             case "help":
                 output = "List of available commands:-<br>"
                 output += "- <b>whoami</b>:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tell \"Who am i\".<br>"
