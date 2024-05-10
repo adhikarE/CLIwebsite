@@ -9,10 +9,6 @@ body{
     body {
         font-size: 14px; 
     }
-
-    #line {
-        margin-top: 0.3em;
-    }
 }
 
 .output_text{
@@ -55,7 +51,7 @@ body{
     height: fit-content;
     width: 100%;
 
-    margin-top: 17px;
+    margin-top: 1rem;
 
     font-family: monospace;
     font-size: 1em;
