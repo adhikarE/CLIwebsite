@@ -27,9 +27,9 @@ function compile() {
                 break;
             case "socials":
                 output += "Here are a few social media sites that I am active on :-<br>"
-                output += "- <a target=\"_blank\" href=\"https://linkedin.com/in/8rupees\" style=\"color: darkgreen;\" >LinkedIn</a><br>";
+                output += "- <a target=\"_blank\" href=\"https://linkedin.com/in/snatchar\" style=\"color: darkgreen;\" >LinkedIn</a><br>";
                 output += "- <a target=\"_blank\" style=\"color: darkgreen;\" >[REDACTED]</a><br>";
-                output += "- <a target=\"_blank\" href=\"https://github.com/8rupees\" style=\"color: darkgreen;\" >Github</a><br>";
+                output += "- <a target=\"_blank\" href=\"https://github.com/snatchar\" style=\"color: darkgreen;\" >Github</a><br>";
                 output += "- <a target=\"_blank\" style=\"color: darkgreen;\">[REDACTED]</a><br>";
                 break;
             case "clear":
