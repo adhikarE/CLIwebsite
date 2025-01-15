@@ -22,6 +22,7 @@ function compile() {
                 output += "Namaste!<br>I am a Network/Security enthusiast & a student who is currently completing my B.Tech in Computer Science and Engineering with a specialization in Cyber Security.<br>I'm currently continuing my studies at NMIMS, Mumbai.<br>For more details/updates please check my socials!";
                 break;
             case "exp":
+                output += "<b>Bharti Airtel</b>: &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>Data Privacy Auditor</i><br><br>"
                 output += "<b>Sapio Analytics Mumbai</b>: &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>Data Privacy Auditor</i><br><br>"
                 output += "<b>IT-11 Computer Education Center</b>: &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<i>Programming Instructor</i>."
                 break;
